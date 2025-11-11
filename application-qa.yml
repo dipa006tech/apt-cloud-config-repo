@@ -1,1 +1,3 @@
-
+my:
+   greeeting: Hello world from Config server
+   list: one, two, three
